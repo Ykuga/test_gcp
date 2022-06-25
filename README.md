@@ -142,3 +142,4 @@ In this lab you will walk through authoring of a Cloud Build CI/CD workflow that
 ### Lab-04 - ML Metadata
 In this lab, you will explore ML metadata and ML artifacts created by TFX pipeline runs.
 # test_gcp
+# test_gcp
